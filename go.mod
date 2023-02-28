@@ -3,7 +3,7 @@ module github.com/kataras/pgx-golog
 go 1.19
 
 require (
-	github.com/jackc/pgx/v5 v5.3.0
+	github.com/jackc/pgx/v5 v5.3.1
 	github.com/kataras/golog v0.1.8
 )
 
